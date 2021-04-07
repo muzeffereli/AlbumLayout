@@ -1,3 +1,3 @@
-Layout for Album to learn material-ui.
+Album Layout project to learn material-ui.
 
 
